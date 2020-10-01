@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/AndreiD/SlackUptimeMonitor/master/slackmonitor.JPG" alt="slack website up down notifier uptime ping"/>
 
-#### A simple, one file script that notifies you on slack when your website is down.
+#### A simple, single file script that notifies a user on slack when the website is down.
 
 ## Configuration
 
